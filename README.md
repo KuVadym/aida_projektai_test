@@ -9,9 +9,8 @@
 - Python 3.10  
 - Django 4.x  
 - Django REST Framework  
-- Simple JWT  
-- PostgreSQL  
-- Docker / Docker Compose  
+- Simple JWT    
+- Docker 
 - Gunicorn  
 
 ---
@@ -45,7 +44,7 @@ POST /api/token/refresh/
 }
 
 📚 API Ендпоінти
-POST /api/register/ — Реєстрація
+POST /api/registration/ — Реєстрація
 
 POST /api/token/ — Логін (отримати токен)
 
